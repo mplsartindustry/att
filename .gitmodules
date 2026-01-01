@@ -1,0 +1,3 @@
+[submodule "hardware/att/kicad-libraries"]
+	path = hardware/att/kicad-libraries
+	url = https://github.com/mplsartindustry/kicad-libraries.git
